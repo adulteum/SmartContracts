@@ -7,7 +7,7 @@ Utility Token and Payment System for the Online Adult Industry – Beta v0.8 Oct
 
 ### Contract Address: 0xca04a4107d009c46a801a61a60defd07afb9f88a
 
-### On ETHEREUM BLOCKCHAIN;
+### On ETHEREUM BLOCKCHAIN
 
 https://etherscan.io/address/0xca04a4107d009c46a801a61a60defd07afb9f88a
 
@@ -19,6 +19,11 @@ https://etherscan.io/address/0xca04a4107d009c46a801a61a60defd07afb9f88a
 * Decimals: 18
 
 ## Sale information
+
+
+### Public sale contract
+
+https://etherscan.io/address/0x9a430245f8bacbcc12b3bdee621356de2269eca8#tokentxns
 
 ### Conditions:
 * For sale: 8.8% of the Total Supply with the Best Conditions Ever, One time.
