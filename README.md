@@ -1,5 +1,4 @@
 # ADULTEUM
-
 www.adulteum.org
 
 ## THE ADULTEUM TOKEN TECHNICAL INFORMATION
@@ -19,11 +18,7 @@ https://etherscan.io/address/0xca04a4107d009c46a801a61a60defd07afb9f88a
 * Decimals: 18
 
 ## Sale information
-
-
-### Public sale contract
-
-https://etherscan.io/address/0x9a430245f8bacbcc12b3bdee621356de2269eca8#tokentxns
+### Public sale contract address: 0x9a430245f8bacbcc12b3bdee621356de2269eca8
 
 ### Conditions:
 * For sale: 8.8% of the Total Supply with the Best Conditions Ever, One time.
@@ -41,4 +36,8 @@ DURING THIS SALE 1 ETH will be calculated from 300 USD to give some incentive fo
 * from 1.00 ETH to 3.00 ETH (until 2.99999 ETH): 45%
 * from 3.00 ETH to 5.00 ETH (until 2.99999 ETH): 65%
 * from 5.00 ETH: 85%
+
+### How to buy
+Send Ethereum to this address to get in return ADULTEUM (ADULT):
+0x9a430245F8bACBCC12b3BdEe621356de2269EcA8
 
