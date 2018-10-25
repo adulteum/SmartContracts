@@ -4,10 +4,9 @@ www.adulteum.org
 ## THE ADULTEUM TOKEN TECHNICAL INFORMATION
 Utility Token and Payment System for the Online Adult Industry – Beta v0.8 October 2018
 
-### Contract Address: 0xca04a4107d009c46a801a61a60defd07afb9f88a
+### Contract Address: 0xCA04a4107D009C46A801A61A60deFD07AFB9F88a
 
 ### On ETHEREUM BLOCKCHAIN
-
 https://etherscan.io/address/0xca04a4107d009c46a801a61a60defd07afb9f88a
 
 * TotalSupply = 1 618 033 988
@@ -18,7 +17,7 @@ https://etherscan.io/address/0xca04a4107d009c46a801a61a60defd07afb9f88a
 * Decimals: 18
 
 ## Sale information
-### Public sale contract address: 0x9a430245f8bacbcc12b3bdee621356de2269eca8
+### Public sale contract address: 0x9a430245F8bACBCC12b3BdEe621356de2269EcA8
 
 ### Conditions:
 * For sale: 8.8% of the Total Supply with the Best Conditions Ever, One time.
